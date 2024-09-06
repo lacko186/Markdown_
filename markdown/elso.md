@@ -163,7 +163,7 @@ elérhetők az adott funkciók, illetve menüpontok:
 
 <center>
 
-![1](https://drive.google.com/file/d/1Z6MOJ6TR9YZMYVwpLl8DkpgWqAKUc5PL/view?usp=sharing)
+![1](https://imgur.com/i8S2R56.png)
 
 </center>
 

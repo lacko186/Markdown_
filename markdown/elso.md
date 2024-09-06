@@ -163,7 +163,7 @@ elérhetők az adott funkciók, illetve menüpontok:
 
 <center>
 
-![1](https://imgur.com/i8S2R56.png)
+![1](cmd.png)
 
 </center>
 

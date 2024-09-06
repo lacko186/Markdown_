@@ -177,7 +177,7 @@ megadnia, mellyel felkerülhet a dicsőséglistára, a megoldott küldetéseinek
 
 <center>
 
-![2](2.png)
+![2](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/1.PNG)
 
 </center>
 A játékosnév megadásához először bele kell kattintani a név megadására szolgáló négyzetbe 

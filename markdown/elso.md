@@ -136,14 +136,17 @@ operációs rendszerrel rendelkezők számára is lehetővé teszi a program fut
 Amennyiben fejlesztőkörnyezet által szeretné futtatni a programot, a Thonny 
 fejlesztőkörnyezet ajánlott a játék futtatására. A Thonny-t letöltheti a https://thonny.org/ 
 weboldalról, majd az oldalon található telepítési útmutatókkal, telepítheti a szoftvert. Ezek 
+után a https://www.pygame.org/wiki/GettingStarted oldalon található útmutatóval installálja
+a Pygame multimédiás könyvtárat.
+
+</center>
 
 <center>
 
- ![cmd]([cmd.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)) 
+ ![cmd]([cmd.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)
 
 </center>
 
-</center>
 <center>
 *Windows10 operáációs rendszer esetében a Pygame installálása*
  </center>
@@ -552,7 +555,7 @@ tárgyhoz, se ahhoz tartozó egyéb változókra, a szövege is kevesebb.
 
 <center>
 
-![27](https://github.com/lacko186/Markdown_/blob/main/markdown/27.PNG)
+![27](27.png)
 
 </center>
 

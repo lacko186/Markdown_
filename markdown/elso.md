@@ -139,7 +139,7 @@ weboldalról, majd az oldalon található telepítési útmutatókkal, telepíth
 
 <center>
 
- ![cmd](cmd.png) 
+ ![cmd]([cmd.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)) 
 
 </center>
 
@@ -163,7 +163,7 @@ elérhetők az adott funkciók, illetve menüpontok:
 
 <center>
 
-![1](cmd.png)
+![1]([cmd.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)
 
 </center>
 
@@ -177,7 +177,7 @@ megadnia, mellyel felkerülhet a dicsőséglistára, a megoldott küldetéseinek
 
 <center>
 
-![2](2.png)
+![2]([2.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/2.PNG)
 
 </center>
 A játékosnév megadásához először bele kell kattintani a név megadására szolgáló négyzetbe 
@@ -185,7 +185,7 @@ az egérrel. Akkor tud bele írni, ha a négyzet kerete világosról sötét sz�
 
 <center>
 
-![3](3.png)
+![3]([3.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/3.PNG)
 
 </center>
 
@@ -199,7 +199,7 @@ elvégzett küldetések számát.
 
 <center>
 
-![4](4.png)
+![4]([4.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/4.PNG)
 
 </center>
 
@@ -216,7 +216,7 @@ párbeszédeket és egyéb szövegeket
 
 <center>
 
-![5](5.png)
+![5]([5.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/5.PNG)
 
 </center>
 
@@ -227,7 +227,7 @@ egy - egy NJK (nem játszható karakter). Mindegyik NJK a maga helyiségénél �
 reprezentálva azt is, hogy hol kell megcsinálni az adott küldetéseket. 
 <center>
 
-![6](6.png)
+![6]([6.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/6.PNG)
 
 </center>
 
@@ -238,7 +238,7 @@ tartozó tárgyak szövegei, ha a játékos elég közel van az NJK-hoz, illetve
 
 <center>
 
-![7](7.png)
+![7]([7.png](https://github.com/lacko186/Markdown_/blob/main/markdown/7.PNG)
 
 </center>
 
@@ -251,7 +251,7 @@ tempóban tud haladni.
 
 <center>
 
-![8](8.png)
+![8]([8.png](https://github.com/lacko186/Markdown_/blob/main/markdown/8.PNG)
 
 </center>
 
@@ -273,7 +273,7 @@ csak vissza kell menni az adott NJK-hoz, hogy befejezze a küldetést.
 
 <center>
 
-![9](9.png)
+![9]([9.png](https://github.com/lacko186/Markdown_/blob/main/markdown/9.PNG)
 
 </center>
 
@@ -288,7 +288,7 @@ felhasználó, akkor kilép a programból.
 
 <center>
 
-![10](10.png)
+![10]([10.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/10.PNG)
 
 </center>
 
@@ -303,7 +303,7 @@ se ért el eredményt.
 
 <center>
 
-![11](11.png)
+![11]([11.png](https://github.com/lacko186/Markdown_/blob/main/markdown/11.PNG)
 
 </center>
 
@@ -340,7 +340,7 @@ egyes részek.
 
 <center>
 
-![12](12.png)
+![12]([12.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/12.PNG)
 </center>
 
 #### 3.2.1. run.py
@@ -357,7 +357,7 @@ végül futtatja az osztály *run* nevű programját.
 
 <center>
 
-![13](13.png)
+![13]([13.png](https://github.com/lacko186/Markdown_/blob/main/markdown/13.PNG))
 
 </center>
 
@@ -371,7 +371,7 @@ korábban inicializálva, de a MainMenu meghívásakor ezt tovább adta.
 
 <center>
 
-![14](14.png)
+![14]([14.png](https://github.com/lacko186/Markdown_/blob/main/markdown/14.PNG)
 
 </center>
 
@@ -381,7 +381,7 @@ változója HAMIS értéket vesz fel, így nem fut tovább a ciklus.
 
 <center>
 
-![15](16.png)
+![15](https://github.com/lacko186/Markdown_/blob/main/markdown/16.PNG))
 
 </center>
 
@@ -392,7 +392,7 @@ képeket. Ezeket a run programban meghívva lehet látni.
 
 <center>
 
-![17](17.png)
+![17](https://github.com/lacko186/Markdown_/blob/main/markdown/17.PNG)
 
 </center>
 ## 3.2.3.  name.py 
@@ -405,7 +405,7 @@ cím *(title)*, egy START gomb képe *(start_button)*, és a hozzá tartozó né
 végül egy betűtípus *(font)*. 
 <center>
 
-![18](18.png)
+![18]([18.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/18.PNG)
 
 </center>
 A *Main* osztály mellett helyet kapott még egy osztály, aminek a neve
@@ -417,7 +417,7 @@ adott betűtípussal, és egy *active* logikai változó, ami meghatározza, hog
 e, tehát a felhasználó tud bele írni, vagy sem. 
 <center>
 
-![19](19.png)
+![19]([19.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/19.PNG)
 
 </center>
 
@@ -450,7 +450,7 @@ NPC2(*npc2*), NPC3(*npc3*), NPC4(*npc4*), NPC5(*npc5*).
 
 <center>
 
-![20](20.png)
+![20]([20.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/20.PNG)
 
 </center>
 
@@ -464,7 +464,7 @@ a képernyőt, hogy ezeket látni lehessen a program futtatásakor.
 
 <center>
 
-![21](21.png)
+![21]([21.png)](https://github.com/lacko186/Markdown_/blob/main/markdown/21.PNG)
 
 </center>
 
@@ -474,7 +474,7 @@ játékos, akkor a win változó IGAZ értéket vesz fel.
 
 <center>
 
-![22](22.png)
+![22](https://github.com/lacko186/Markdown_/blob/main/markdown/22.PNG)
 
 </center>
 
@@ -483,7 +483,7 @@ főprogramját, a *run-t*, futtatja, végül frissíti a képernyőt.
 
 <center>
 
-![23](23.png)
+![23](https://github.com/lacko186/Markdown_/blob/main/markdown/23.PNG)
 
 </center>
 
@@ -496,7 +496,7 @@ belekerülne a játékos neve.
 
 <center>
 
-![24](24.png)
+![24](https://github.com/lacko186/Markdown_/blob/main/markdown/24.PNG)
 
 </center>
 
@@ -516,7 +516,7 @@ A *Draw* alprogram kezeli a játékos animációját, amely a játékon belül m
 
 <center>
 
-![25](25.png)
+![25](https://github.com/lacko186/Markdown_/blob/main/markdown/25.PNG)
 
 </center>
 
@@ -541,7 +541,7 @@ többi osztályban. Az előtte levő  NJK osztályát beimportálja, a done vál
 
 <center>
 
-![26](26.png)
+![26](https://github.com/lacko186/Markdown_/blob/main/markdown/26.PNG)
 
 </center>
 
@@ -567,7 +567,7 @@ meg a játékos mozgása a *Moving* programban.
 
 <center>
 
-![28](28.png)
+![28](https://github.com/lacko186/Markdown_/blob/main/markdown/28.PNG)
 
 </center>
 
@@ -581,7 +581,7 @@ run meghív, és a gombot használhatóvá teszi.
 
 <center>
 
-![29](29.png)
+![29](https://github.com/lacko186/Markdown_/blob/main/markdown/29.PNG)
 
 </center>
 
@@ -598,7 +598,7 @@ működése.
 
 <center>
 
-![30](30.png)
+![30](https://github.com/lacko186/Markdown_/blob/main/markdown/30.PNG)
 
 </center>
 
@@ -620,7 +620,7 @@ történik: példádul kilép a program, láthatjuk a dicsőséglistát, vagy el
 
 <center>
 
-![31](31.png)
+![31](https://github.com/lacko186/Markdown_/blob/main/markdown/31.PNG)
 
 </center>
 
@@ -652,7 +652,7 @@ felhasználónevet és annak jelenlegi állapotát, és az inputboxot is megrajz
 
 <center>
 
-![32](32.png)
+![32](https://github.com/lacko186/Markdown_/blob/main/markdown/32.PNG)
 
 </center>
 
@@ -688,7 +688,7 @@ a *hitboxot*.
 
 <center>
 
-![33](33.png)
+![33](https://github.com/lacko186/Markdown_/blob/main/markdown/33.PNG)
 
 </center>
 
@@ -704,7 +704,7 @@ a *collide* változó IGAZ értéket vesz fel.
 
 <center>
 
-![34](34.png)
+![34](https://github.com/lacko186/Markdown_/blob/main/markdown/34.PNG)
 
  </center>
 
@@ -728,7 +728,7 @@ lesz újra, hogy megfelelően mutassa az animációkat, ha újra elindul a karak
 
 <center>
 
-![35](35.png)
+![35](https://github.com/lacko186/Markdown_/blob/main/markdown/35.PNG)
 
 </center>
 
@@ -743,7 +743,7 @@ hanem mindig visszamegy oda, ahol összeért a másik hitboxal.
 
 <center>
 
-![36](36.png)
+![36](https://github.com/lacko186/Markdown_/blob/main/markdown/36.PNG)
 
 </center>
 
@@ -772,7 +772,7 @@ küldetést.
 
 <center>
 
-![37](37.png)
+![37](https://github.com/lacko186/Markdown_/blob/main/markdown/37.PNG)
 
 </center>
 
@@ -781,7 +781,7 @@ ha az előző küldetés done változója IGAZ.
 
 <center>
 
-![38](38.png)
+![38](https://github.com/lacko186/Markdown_/blob/main/markdown/38.PNG)
 
 </center>
 
@@ -794,7 +794,7 @@ elvégzésére bíztatja a játékost.
 
 <center>
 
-![39](39.png)
+![39](https://github.com/lacko186/Markdown_/blob/main/markdown/39.PNG)
 
 </center>
 
@@ -816,7 +816,7 @@ játékkal, akkor a dicsőségtábla üres.
 
 <center>
 
-![40](40.png)
+![40](https://github.com/lacko186/Markdown_/blob/main/markdown/40.PNG)
 
 </center>
 
@@ -838,7 +838,7 @@ félkört helyeztem el.
 
 <center>
 
-![41](41.png)
+![41](https://github.com/lacko186/Markdown_/blob/main/markdown/41.PNG)
 
 </center>
 
@@ -851,7 +851,7 @@ viszonylag könnyen tudjon mozogni a karakter. A játéktér alapjait a klasszik
 csináltam, a színezéseket valamint a bútorokat Photoshoppal helyeztem el. 
 <center>
 
-![41](42.png)
+![41](https://github.com/lacko186/Markdown_/blob/main/markdown/42.PNG)
 
 </center>
 #### 3.4.3. Szövegdoboz
@@ -861,7 +861,7 @@ volna én is hasonló módszert alkalmazni.
 
 <center>
 
-![42](43.png)
+![42](https://github.com/lacko186/Markdown_/blob/main/markdown/42.PNG)
 
 </center>
 
@@ -874,7 +874,7 @@ animáció darabjait egyesével kivágtam 32x32 es méretre
 
 <center>
 
-![44](44.png)
+![44](https://github.com/lacko186/Markdown_/blob/main/markdown/44.PNG)
 
 </center>
 
@@ -887,7 +887,7 @@ játékoskarakteréhez hasonlóan szerkesztettem át.
 
 <center>
 
-![45](45.png)
+![45](https://github.com/lacko186/Markdown_/blob/main/markdown/45.PNG)
 
 </center>
 
@@ -910,7 +910,7 @@ A betűtípus a következőképpen néz ki:
 
 <center>
 
- ![46](46.png)
+ ![46](https://github.com/lacko186/Markdown_/blob/main/markdown/46.PNG)
  
  </center>
  

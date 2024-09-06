@@ -1,4 +1,4 @@
-# <p style = "text-align: center" >Záródolgozat</p>
+# <p style = "text-align:" > <center> Záródolgozat </center></p>
 <br><br><br><br><br><br><br><br>
 ## <p style = "text-align: right"> Rebman Fanni Viktória </p>
 <br><br><br><br><br><br><br>

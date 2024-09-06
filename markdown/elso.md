@@ -552,7 +552,7 @@ tárgyhoz, se ahhoz tartozó egyéb változókra, a szövege is kevesebb.
 
 <center>
 
-![27](27.png)
+![27](https://github.com/lacko186/Markdown_/blob/main/markdown/27.PNG)
 
 </center>
 

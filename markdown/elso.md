@@ -142,12 +142,6 @@ a Pygame multimédiás könyvtárat.
 </center>
 
 <center>
-
- ![cmd]([cmd.png](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)
-
-</center>
-
-<center>
 *Windows10 operáációs rendszer esetében a Pygame installálása*
  </center>
 
@@ -167,8 +161,6 @@ elérhetők az adott funkciók, illetve menüpontok:
 <center>
 
 ![1](https://raw.githubusercontent.com/lacko186/Markdown_/main/markdown/cmd.PNG)
-
-</center>
 
 </center>
 
